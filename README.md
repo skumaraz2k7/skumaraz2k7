@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋, I'm Sandeep Kumar</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Sandeep%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
@@ -101,7 +101,7 @@
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/kumarmit/">
+    <a href="https://www.linkedin.com/in/sandeep-kumar-60049b16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>    
 </div>
@@ -109,4 +109,4 @@
 ---
 
 ### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+To DO
